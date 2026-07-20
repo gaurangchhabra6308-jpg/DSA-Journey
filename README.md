@@ -65,10 +65,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0055-jump-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
