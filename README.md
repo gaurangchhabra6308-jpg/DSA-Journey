@@ -83,11 +83,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0055-jump-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3024-type-of-triangle](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3024-type-of-triangle) |
@@ -103,6 +105,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
