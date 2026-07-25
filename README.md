@@ -6,6 +6,7 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3024-type-of-triangle](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3024-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -115,6 +116,7 @@
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3024-type-of-triangle](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3024-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
