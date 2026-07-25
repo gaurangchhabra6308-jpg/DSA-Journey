@@ -21,6 +21,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -56,6 +57,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -104,11 +106,13 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0055-jump-game) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3024-type-of-triangle](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -134,4 +138,8 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
