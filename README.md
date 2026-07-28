@@ -155,6 +155,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3024-type-of-triangle](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3024-type-of-triangle) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
@@ -188,8 +189,13 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
