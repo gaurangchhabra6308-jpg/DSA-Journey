@@ -19,6 +19,9 @@ public:
 class Solution {
 public:
     Node* connect(Node* root) {
+        if (root == nullptr)
+            return nullptr;
+
         Node*curr=root;
         while(curr){
             Node dummy(-1);
