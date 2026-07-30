@@ -1,11 +1,10 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        int n=word.length();
-        int cnt=0;
-        for(int i=0;i<n;i++){
-            cnt+=i/8+1;
-        }
-        return cnt;
+     int n=word.size();
+     int block=n/8;
+     int rem=n%8;
+     int cnt= (block*(block+1)*4)+rem*(block+1);
+     return cnt;
     }
 };
