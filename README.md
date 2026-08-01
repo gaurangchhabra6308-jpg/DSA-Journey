@@ -167,6 +167,7 @@
 | [0055-jump-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0475-heaters](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -184,6 +185,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0475-heaters](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
+| [0475-heaters](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0475-heaters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -258,6 +261,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0475-heaters](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0475-heaters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Monotonic Stack
 |  |
