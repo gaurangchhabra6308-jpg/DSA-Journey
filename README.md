@@ -303,4 +303,12 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0143-reorder-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
