@@ -221,6 +221,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0222-count-complete-tree-nodes) |
 | [0475-heaters](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0475-heaters) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0012-integer-to-roman) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -311,4 +313,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
+## Prefix Sum
+|  |
+| ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
