@@ -76,6 +76,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0662-maximum-width-of-binary-tree) |
@@ -157,6 +158,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0662-maximum-width-of-binary-tree) |
@@ -323,4 +325,12 @@
 |  |
 | ------- |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
