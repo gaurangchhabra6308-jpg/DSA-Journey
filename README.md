@@ -82,6 +82,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -165,6 +166,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -340,6 +342,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -348,4 +351,16 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
