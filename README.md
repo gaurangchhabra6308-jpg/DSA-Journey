@@ -130,6 +130,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0144-binary-tree-preorder-traversal) |
@@ -258,6 +259,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -363,4 +365,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0802-find-eventual-safe-states) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
