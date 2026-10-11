@@ -193,6 +193,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3024-type-of-triangle](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3731-find-missing-elements) |
@@ -369,4 +370,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
