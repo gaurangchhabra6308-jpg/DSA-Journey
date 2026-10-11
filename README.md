@@ -8,6 +8,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3024-type-of-triangle) |
 | [3536-maximum-product-of-two-digits](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
@@ -303,6 +304,7 @@
 | [0143-reorder-list](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0143-reorder-list) |
 | [0475-heaters](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0475-heaters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2396-strictly-palindromic-number](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2396-strictly-palindromic-number) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -374,4 +376,8 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
