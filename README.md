@@ -76,6 +76,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0547-number-of-provinces) |
@@ -160,6 +161,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -359,6 +361,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0802-find-eventual-safe-states) |
@@ -374,6 +377,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
