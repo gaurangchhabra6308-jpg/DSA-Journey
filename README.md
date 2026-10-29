@@ -176,6 +176,7 @@
 | [0785-is-graph-bipartite](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1254-number-of-closed-islands) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -218,6 +219,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -359,6 +361,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1254-number-of-closed-islands](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -369,6 +372,7 @@
 | [0547-number-of-provinces](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -377,6 +381,7 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
 | ------- |
