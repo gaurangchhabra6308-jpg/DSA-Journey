@@ -199,6 +199,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1094-car-pooling](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1094-car-pooling) |
 | [1254-number-of-closed-islands](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1254-number-of-closed-islands) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -227,6 +228,7 @@
 | [0475-heaters](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1094-car-pooling](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3024-type-of-triangle](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3024-type-of-triangle) |
@@ -269,6 +271,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -349,6 +352,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1094-car-pooling) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Union-Find
 |  |
@@ -408,4 +412,8 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
