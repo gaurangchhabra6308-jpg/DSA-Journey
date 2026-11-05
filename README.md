@@ -16,6 +16,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
