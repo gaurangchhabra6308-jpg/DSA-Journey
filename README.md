@@ -212,6 +212,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3024-type-of-triangle](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -296,6 +297,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -372,6 +374,7 @@
 | [1094-car-pooling](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1094-car-pooling) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Union-Find
 |  |
 | ------- |
