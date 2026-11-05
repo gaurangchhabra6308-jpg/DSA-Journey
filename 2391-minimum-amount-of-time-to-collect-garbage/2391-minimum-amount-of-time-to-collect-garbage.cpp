@@ -6,7 +6,7 @@ public:
         for(int i=0;i<garbage.size();i++){
             cnt+=garbage[i].size();
         
-        for(auto c:garbage[i]) map[c]=sum;
+        for(auto c:garbage[i]) map[c]=sum;// ye wali line mai pura logic ha and thodi confusing 
         if(i<travel.size()) sum+=travel[i];
         }
         return cnt+map['M']+map['P']+map['G'];
