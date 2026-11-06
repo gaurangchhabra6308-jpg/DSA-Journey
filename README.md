@@ -209,6 +209,7 @@
 | [1094-car-pooling](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1094-car-pooling) |
 | [1254-number-of-closed-islands](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1254-number-of-closed-islands) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -232,6 +233,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -295,6 +297,7 @@
 | [0012-integer-to-roman](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0020-valid-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
