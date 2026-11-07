@@ -10,6 +10,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3024-type-of-triangle) |
@@ -213,6 +214,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3024-type-of-triangle](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3024-type-of-triangle) |
@@ -300,6 +302,7 @@
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -438,6 +441,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1254-number-of-closed-islands) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
