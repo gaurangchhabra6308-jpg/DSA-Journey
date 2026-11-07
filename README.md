@@ -18,6 +18,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -193,6 +194,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Array
 |  |
 | ------- |
@@ -429,6 +431,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Brainteaser
 |  |
 | ------- |
