@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -191,6 +192,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -462,4 +464,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
