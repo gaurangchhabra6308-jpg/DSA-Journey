@@ -204,6 +204,7 @@
 | [0055-jump-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0238-product-of-array-except-self](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -385,6 +386,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [1094-car-pooling](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1094-car-pooling) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
