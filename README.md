@@ -218,6 +218,7 @@
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1861-rotating-the-box](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -353,6 +354,7 @@
 | [0143-reorder-list](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0143-reorder-list) |
 | [0475-heaters](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0475-heaters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1861-rotating-the-box](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2396-strictly-palindromic-number](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2396-strictly-palindromic-number) |
 ## Monotonic Stack
@@ -452,6 +454,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1254-number-of-closed-islands) |
+| [1861-rotating-the-box](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1861-rotating-the-box) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
