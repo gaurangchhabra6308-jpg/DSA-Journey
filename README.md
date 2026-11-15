@@ -20,6 +20,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Number Theory
 |  |
 | ------- |
@@ -274,6 +275,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Search
 |  |
 | ------- |
