@@ -205,6 +205,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -484,4 +485,5 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
