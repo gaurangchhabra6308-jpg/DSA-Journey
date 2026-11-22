@@ -321,6 +321,7 @@
 | [1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1452-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
