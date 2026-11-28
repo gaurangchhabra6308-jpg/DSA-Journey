@@ -198,6 +198,7 @@
 | [0055-jump-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -212,6 +213,7 @@
 | [0090-subsets-ii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0198-house-robber](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/gaurangchhabra6308-jpg/DSA-Journey/tree/master/0347-top-k-frequent-elements) |
